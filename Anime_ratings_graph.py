@@ -14,6 +14,9 @@ ranking_graph= ranking_graph.sort_values('Ratings', ascending=True)
 #print(ranking_graph.head())
 #print(ranking_graph.describe())
 
+print("duc is a fart pooper")
+
+
 x=ranking_graph['Title']
 
 y=ranking_graph.Ratings
