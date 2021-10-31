@@ -2,6 +2,7 @@ from urllib.request import urlopen as request
 from bs4 import BeautifulSoup as bs
 from datetime import date, datetime
 
+#test
 seasonInput = input("Enter Season: ")
 seasonInput=seasonInput.lower()
 
